@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/cars"
+        android:title="Vehicules"
+        android:icon="@drawable/cars"/>
+    <item
+        android:id="@+id/setting"
+        android:title="setting"
+        android:icon="@drawable/setting"/>
+
+    <item
+        android:id="@+id/follow"
+        android:title="FollowUp"
+        android:icon="@drawable/follow"/>
+
+    <item
+        android:id="@+id/quest"
+        android:title="Help"
+        android:icon="@drawable/quest"/>
+
+</menu>
